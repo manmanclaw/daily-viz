@@ -1,12 +1,13 @@
 {
   "name": "daily-viz",
   "version": "1.0.0",
-  "description": "Daily life tracking and data visualization for OpenClaw",
+  "description": "日常记录与数据可视化 - OpenClaw Skill",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "manmanclaw",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manmanclaw/daily-viz"
   },
-  "keywords": ["openclaw", "skill", "tracking", "visualization"],
-  "author": "军哥",
+  "keywords": ["openclaw", "skill", "tracking", "visualization", "habits"],
   "license": "MIT"
 }

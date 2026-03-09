@@ -1,0 +1,9 @@
+{
+  "name": "daily-viz",
+  "version": "1.0.0",
+  "description": "日常记录与数据可视化 - 记录心情、运动、睡眠，生成美观图表",
+  "author": "manmanclaw",
+  "repository": "https://github.com/manmanclaw/daily-viz",
+  "tags": ["tracking", "visualization", "habits", "health", "productivity"],
+  "license": "MIT"
+}
